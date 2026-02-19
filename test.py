@@ -1,5 +1,5 @@
 print("🤖 Mini AI Assistant Started!")
-print("Type 'exit' to stop.\n")
+print("Type 'stop' to stop.\n")
 
 while True:
     user_input = input("You: ").lower()
